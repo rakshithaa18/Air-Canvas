@@ -13,7 +13,7 @@ Controls:
 1) Index finger – Draw
 2) Index + Middle – Select color / shape
 3) Thumb – Open menus
-4) + / - – Brush size
+4) +/- – Brush size
 5) F – Toggle fill
 6) U – Undo
 7) C – Clear
